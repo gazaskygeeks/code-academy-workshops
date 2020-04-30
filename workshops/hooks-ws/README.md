@@ -2,7 +2,7 @@
 
 Original Repo can be found [here](https://github.com/MohammedYehia/Hooks-G8)
 
-if you want to test the examples then you can clone the repo:
+if you want to test the examples then you can clone that repo:
 * using HTTPS `git clone https://github.com/MohammedYehia/Hooks-G8.git`
 * or using SSH `git clone git@github.com:MohammedYehia/Hooks-G8.git`
 
