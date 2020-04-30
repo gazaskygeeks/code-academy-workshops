@@ -4,4 +4,4 @@ Please insert new weekly schedules in alphabetical order
 
 Schedules:
 
-- [Advanced React Week](./Advanced React Week)
+- [Advanced React Week](./Advanced-React-Week)
