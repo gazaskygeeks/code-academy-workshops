@@ -6,4 +6,4 @@ Workshops can be found [here](./workshops/)
 
 Weekly Schedules can be found [here](./schedules/)
 
-Contributing guidlines found [here](./contributing.md)
+Contributing guidlines found [here](./CONTRIBUTING.md)
