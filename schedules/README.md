@@ -4,4 +4,4 @@ Please insert new weekly schedules in alphabetical order
 
 Schedules:
 
-- [Advanced React Week](./advanced-react-week)
+- [Advanced React Week - Context API + Hooks](./advanced-react-week)
