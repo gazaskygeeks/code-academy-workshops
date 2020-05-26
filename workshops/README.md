@@ -10,4 +10,5 @@ This folder holds workshops developed for the GSG Code Academy.
 
 ## Workshops
 
-1. [Hooks Part 1](./hooks-ws)
+1. [Context API](./context-api)
+2. [Hooks Part 1](./hooks-ws)
