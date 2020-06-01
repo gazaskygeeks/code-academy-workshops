@@ -50,7 +50,7 @@ This is the delivery system for our store, the piece that is going to deliver th
 {/*...components that can consume the store*/}
 </Context.Provider>
 ```
-**Note:** we can't use anything other than the value prop name (it is a reserved word for the provider)
+**Note:** we can't use anything other than the **value** prop name (it is a reserved word for the provider)
 
 We simply say that anything wrapped under this Provider component will have access to this value via the Consumer 
 
