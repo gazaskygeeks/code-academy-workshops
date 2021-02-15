@@ -11,3 +11,4 @@ This folder holds workshops developed for the GSG Code Academy.
 ## Workshops
 
 1. [Hooks Part 1](./hooks-ws)
+2. [Computer Science Intro](./computer-science)
